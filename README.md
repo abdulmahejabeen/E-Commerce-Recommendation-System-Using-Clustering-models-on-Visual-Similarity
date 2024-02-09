@@ -34,5 +34,5 @@ This research utilizes the most efficient and common cluster performance evaluat
 ### Results
 <img width="652" alt="Screenshot 2024-02-08 at 6 03 02 PM" src="https://github.com/abdulmahejabeen/E-Commerce-Recommendation-System-Using-Clustering-models-on-Visual-Similarity/assets/56336879/1183e57c-fac2-4574-b4ef-54d03718cf92">
 
-Birch Model achieves a Silhouette score of 0.67 and Davies-Bouldin Index score of 0.32 at the 5 optimal number of clusters. 
+- Birch Model achieves a Silhouette score of 0.67 and Davies-Bouldin Index score of 0.32 at the 5 optimal number of clusters. 
 
