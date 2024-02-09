@@ -1,1 +1,1 @@
-# E-Commerce-Recommendation-System-Using-Clustering-models-on-Visual-Similarity
+# Visual Similarity-Based CLothing images Recommendation System
