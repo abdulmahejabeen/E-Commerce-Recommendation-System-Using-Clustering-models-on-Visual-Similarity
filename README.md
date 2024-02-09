@@ -1,1 +1,1 @@
-# Visual Similarity-Based CLothing images Recommendation System
+# Visual Similarity-Based Clothing images Recommendation System
