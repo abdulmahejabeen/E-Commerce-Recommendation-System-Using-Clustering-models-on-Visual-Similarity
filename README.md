@@ -13,6 +13,8 @@ The steps performed in this project are Data collection, Preprocessing, Dimensio
 - These were crowdsourced rom social networks and collaboration platforms Toloka and Tagios.
 
 ### Data Preprocessing
+<img width="600" alt="Screenshot 2024-02-08 at 6 31 26 PM" src="https://github.com/abdulmahejabeen/E-Commerce-Recommendation-System-Using-Clustering-models-on-Visual-Similarity/assets/56336879/b3efd2c3-629f-4682-8018-a1391d7c5e5a">
+
 - Check for incomplete image data and remove them.
 - Check for any incorrect format or corrupt images using PIL and discard them.
 - Normalization techniques inconsistent resolution of images to rescale or normalize them to a uniform size.
