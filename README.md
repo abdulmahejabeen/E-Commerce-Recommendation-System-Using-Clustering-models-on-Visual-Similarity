@@ -29,7 +29,7 @@ Unsupervised Machine learning models- Clustering algorithms are used such as K-m
 
 ### Evaluation metrics 
 This research utilizes the most efficient and common cluster performance evaluation metrics: 
-- Silhouette score
+- Silhouette score 
 - Calinski-Harabasz index and
 - Davies-Bouldin Index.
 
